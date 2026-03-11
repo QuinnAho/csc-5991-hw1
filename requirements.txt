@@ -1,0 +1,6 @@
+# Core dependencies for the standalone PyTorch homework scaffold.
+torch
+numpy
+matplotlib
+pandas
+tqdm

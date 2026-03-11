@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Generated training artifacts
+outputs/checkpoints/*.pt
+outputs/checkpoints/*.pth
+outputs/figures/*.png
+outputs/plots/*.png
+outputs/metrics/*.json
+outputs/metrics/*.csv
+outputs/predictions/*.csv
+
+# Generated datasets
+data/processed/*.jsonl
+data/processed/*.json
+data/processed/*.txt

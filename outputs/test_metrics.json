@@ -1,0 +1,7 @@
+{
+  "loss": 3.0365659383353345e-07,
+  "token_accuracy": 1.0,
+  "exact_match_accuracy": 1.0,
+  "slot_accuracy": 1.0,
+  "num_examples": 923
+}
