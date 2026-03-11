@@ -1,4 +1,5 @@
-"""Project-wide configuration for data, model, training, and output paths.
+"""
+Project-wide configuration for data, model, training, and output paths.
 
 This file keeps default settings in one place so the rest of the project can
 stay small and easy to reference in the report. The values here are meant to

@@ -1,4 +1,5 @@
-"""High-level seq2seq wrapper for training and greedy decoding.
+"""
+High-level seq2seq wrapper for training and greedy decoding.
 
 This module ties together the encoder, attention layer, and decoder so scripts
 only need to interact with one model class. The wrapper supports:

@@ -1,4 +1,5 @@
-"""Generate report-ready plots, markdown summaries, and code snippets.
+"""
+Generate report-ready plots, markdown summaries, and code snippets.
 
 This script turns the saved dataset, training, and evaluation artifacts into
 the assignment deliverables that are easiest to paste into a university report.

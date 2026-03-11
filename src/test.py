@@ -1,4 +1,5 @@
-"""Entry point for final model evaluation.
+"""
+Entry point for final model evaluation.
 
 This script loads the best saved checkpoint, evaluates on the held-out test
 split, and exports metrics plus representative prediction comparisons.

@@ -1,7 +1,6 @@
 """Synthetic dataset generation for the visual-effect translation task.
 
-This module builds a standalone synthetic dataset for a seq2seq attention
-homework project. Each example pairs:
+Each example pairs:
 - a natural-language visual-effect description
 - a deterministic structured target token sequence
 

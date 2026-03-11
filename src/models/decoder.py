@@ -1,4 +1,5 @@
-"""GRU decoder that predicts canonical parameter tokens.
+"""
+GRU decoder that predicts canonical parameter tokens.
 
 At each decoding step, the decoder:
 - embeds the previous target token

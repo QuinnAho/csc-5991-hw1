@@ -1,4 +1,5 @@
-"""Entry point for model training.
+"""
+Entry point for model training.
 
 This script assembles the dataset, vocabularies, model, optimizer, and trainer,
 then runs end-to-end training with validation and best-checkpoint saving.

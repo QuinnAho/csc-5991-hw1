@@ -44,7 +44,8 @@ class EncoderGRU(nn.Module):
     def forward(
         self, source_tokens: torch.Tensor, source_lengths: torch.Tensor
     ) -> tuple[torch.Tensor, torch.Tensor]:
-        """Encode one batch of padded source sequences.
+        """
+        Encode one batch of padded source sequences.
 
         Shapes:
         - source_tokens: [batch_size, source_length]

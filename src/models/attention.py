@@ -1,4 +1,5 @@
-"""Bahdanau additive attention for the decoder.
+"""
+Bahdanau additive attention for the decoder.
 
 This file is intentionally separated because the assignment requires an
 annotated attention code block in the report. Keeping the logic isolated makes
